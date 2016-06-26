@@ -18,4 +18,4 @@ The script requires following need to be installed :
 * Make sure you installed all the dependencies.
 * Edit the question url and the phantomjs path in the config.py file.
 
-	# We can use chromedriver too but it's not worth to open a browser for  background processing app. 
+* We can use chromedriver too but it's not worth to open a browser for  background processing app. 
